@@ -4,18 +4,26 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2500&pause=700&color=FF4545&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Himanshu+Kumawat;I+turn+ideas+into+production-ready+apps.;Building+fluid+60fps+mobile+experiences.;Creating+media+streaming+architectures.;Student+by+day.+Builder+every+day.)](https://github.com/debugwithhimanshu)
 
-<br/>
+<p align="center">
+  <a href="https://github.com/debugwithhimanshu" target="_blank">
+    <img src="https://img.shields.io/badge/GITHUB-111111?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://linkedin.com/in/debugwithhimanshu" target="_blank">
+    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://leetcode.com/u/debugwithhimanshu" target="_blank">
+    <img src="https://img.shields.io/badge/LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+  </a>
+  <a href="mailto:himanshunokhval@gmail.com">
+    <img src="https://img.shields.io/badge/EMAIL-ff4545?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
 
-[![GitHub](https://img.shields.io/badge/GITHUB-111111?style=for-the-badge&logo=github&logoColor=white)](https://github.com/debugwithhimanshu)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/debugwithhimanshu)
-[![LeetCode](https://img.shields.io/badge/LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/debugwithhimanshu)
-[![Email](https://img.shields.io/badge/EMAIL-ff4545?style=for-the-badge&logo=gmail&logoColor=white)](mailto:himanshunokhval@gmail.com)
-
-<br/><br/>
-
-[![Profile Views](https://komarev.com/ghpvc/?username=debugwithhimanshu&style=flat-square&color=ff4545&label=PROFILE+VIEWS)](https://github.com/debugwithhimanshu)
-&nbsp;&nbsp;
-![Status](https://img.shields.io/badge/STATUS-OPEN%20FOR%20OPPORTUNITIES-00c853?style=flat-square&logo=flutter&logoColor=white)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=debugwithhimanshu&style=flat-square&color=ff4545&label=PROFILE+VIEWS" alt="Profile Views" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/STATUS-OPEN%20FOR%20OPPORTUNITIES-00c853?style=flat-square&logo=flutter&logoColor=white" alt="Status" />
+</p>
 
 </div>
 
