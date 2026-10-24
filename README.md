@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:08090d,40:401020,100:ff3030&height=250&section=header&text=HIMANSHU%20KUMAWAT&fontSize=70&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=MOBILE%20APPLICATION%20ENGINEER%20%7C%20FLUTTER%20BUILDER&descSize=16&descAlignY=58" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2500&pause=700&color=FF4545&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Himanshu+Kumawat;I+turn+ideas+into+production-ready+apps.;Building+fluid+60fps+mobile+experiences.;Creating+media+streaming+architectures.;Student+by+day.+Builder+every+day.)](https://github.com/debugwithhimanshu)
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=3000&pause=1000&color=FF4545&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Himanshu+Kumawat;Flutter+%26+Mobile+Application+Developer;Building+fluid+60fps+mobile+experiences;Creating+media+streaming+architectures" alt="Typing SVG" />
 
 <p align="center">
   <a href="https://github.com/debugwithhimanshu" target="_blank">
@@ -20,7 +20,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=debugwithhimanshu&style=for-the-badge&color=ff4545" alt="Profile Views" />
+  <img src="https://api.visitorbadge.io/api/visitors?path=debugwithhimanshu&label=PROFILE%20VIEWS&countColor=%23ff4545&style=for-the-badge" alt="Profile Views" />
   &nbsp;
   <img src="https://img.shields.io/badge/STATUS-OPEN%20FOR%20OPPORTUNITIES-00c853?style=for-the-badge&logo=flutter&logoColor=white" alt="Status" />
 </p>
