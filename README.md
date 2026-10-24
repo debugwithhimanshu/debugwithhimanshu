@@ -20,9 +20,9 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=debugwithhimanshu&style=flat-square&color=ff4545&label=PROFILE+VIEWS" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=debugwithhimanshu&style=for-the-badge&color=ff4545" alt="Profile Views" />
   &nbsp;
-  <img src="https://img.shields.io/badge/STATUS-OPEN%20FOR%20OPPORTUNITIES-00c853?style=flat-square&logo=flutter&logoColor=white" alt="Status" />
+  <img src="https://img.shields.io/badge/STATUS-OPEN%20FOR%20OPPORTUNITIES-00c853?style=for-the-badge&logo=flutter&logoColor=white" alt="Status" />
 </p>
 
 </div>
