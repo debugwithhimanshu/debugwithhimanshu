@@ -2,28 +2,20 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:08090d,40:401020,100:ff3030&height=250&section=header&text=HIMANSHU%20KUMAWAT&fontSize=70&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=MOBILE%20APPLICATION%20ENGINEER%20%7C%20FLUTTER%20BUILDER&descSize=16&descAlignY=58" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2500&pause=700&color=FF4545&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Himanshu+Kumawat;I+turn+ideas+into+production-ready+apps.;Building+fluid+60fps+mobile+experiences.;Creating+media+streaming+architectures.;Student+by+day.+Builder+every+day." alt="Typing SVG" />
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2500&pause=700&color=FF4545&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Himanshu+Kumawat;I+turn+ideas+into+production-ready+apps.;Building+fluid+60fps+mobile+experiences.;Creating+media+streaming+architectures.;Student+by+day.+Builder+every+day.)](https://github.com/debugwithhimanshu)
 
 <br/>
 
-<a href="https://github.com/debugwithhimanshu">
-<img src="https://img.shields.io/badge/GITHUB-111111?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-<a href="https://linkedin.com/in/debugwithhimanshu">
-<img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="https://leetcode.com/u/debugwithhimanshu">
-<img src="https://img.shields.io/badge/LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-</a>
-<a href="mailto:himanshunokhval@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-ff4545?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+[![GitHub](https://img.shields.io/badge/GITHUB-111111?style=for-the-badge&logo=github&logoColor=white)](https://github.com/debugwithhimanshu)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/debugwithhimanshu)
+[![LeetCode](https://img.shields.io/badge/LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/debugwithhimanshu)
+[![Email](https://img.shields.io/badge/EMAIL-ff4545?style=for-the-badge&logo=gmail&logoColor=white)](mailto:himanshunokhval@gmail.com)
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=debugwithhimanshu&style=flat-square&color=ff4545&label=PROFILE+VIEWS"/>
+[![Profile Views](https://komarev.com/ghpvc/?username=debugwithhimanshu&style=flat-square&color=ff4545&label=PROFILE+VIEWS)](https://github.com/debugwithhimanshu)
 &nbsp;&nbsp;
-<img src="https://img.shields.io/badge/STATUS-OPEN%20FOR%20OPPORTUNITIES-00c853?style=flat-square&logo=flutter&logoColor=white"/>
+![Status](https://img.shields.io/badge/STATUS-OPEN%20FOR%20OPPORTUNITIES-00c853?style=flat-square&logo=flutter&logoColor=white)
 
 </div>
 
@@ -151,14 +143,9 @@ A developer-focused application providing reusable Flutter templates, UI snippet
 
 ---
 
-## `04` / THE DEVELOPER LOG & ACHIEVEMENTS
+## `04` / THE DEVELOPER LOG & STATS
 
 <div align="center">
-
-<!-- GitHub Trophies Shelf -->
-<img src="https://github-profile-trophy.vercel.app/?username=debugwithhimanshu&theme=onedark&no-frame=true&no-bg=true&margin_w=6&column=7" width="95%"/>
-
-<br/><br/>
 
 <!-- Stats & Streak Cards side-by-side -->
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=debugwithhimanshu&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ff4545&icon_color=ff4545&text_color=dddddd&rank_icon=github"/>
