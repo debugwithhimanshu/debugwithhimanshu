@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:08090d,40:401020,100:ff3030&height=250&section=header&text=HIMANSHU%20KUMAWAT&fontSize=70&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=MOBILE%20APPLICATION%20ENGINEER%20%7C%20FLUTTER%20BUILDER&descSize=16&descAlignY=58" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2500&pause=700&color=FF4545&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Himanshu+Kumawat+👋;I+turn+ideas+into+production-ready+apps.;Building+fluid+60fps+mobile+experiences.;Creating+media+streaming+architectures.;Student+by+day.+Builder+every+day." />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2500&pause=700&color=FF4545&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Himanshu+Kumawat;I+turn+ideas+into+production-ready+apps.;Building+fluid+60fps+mobile+experiences.;Creating+media+streaming+architectures.;Student+by+day.+Builder+every+day." alt="Typing SVG" />
 
 <br/>
 
